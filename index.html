@@ -58,5 +58,13 @@
         <input type="text" id="inp" placeholder="Enter text...">
         <button onclick="Speak()">Speak</button>
     </div>
+
+    <script>
+        let Speak = () => {
+            let input = document.getElementById('inp').value;
+            const utterance = new SpeechSynthesisUtterance(input);
+            window.speechSynthesis.speak(utterance);
+        }
+    </script>
 </body>
 </html>
