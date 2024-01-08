@@ -48,7 +48,7 @@ whole HTML**
 ## 🚀 Live Demo & Video presentation <a name="live-demo"></a> <a name='video'></a>
 <br>
 
-- [Click me to view deployed project!]()
+- [Click me to view deployed project!](https://mohammadyaser.github.io/text-to-speech-app/)
 
 - [Click me to view web page and code presentation]()
 
